@@ -1,0 +1,1358 @@
+{
+    "id": "e136046d-2c61-4c88-a63e-0c2e725cef8d",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": true,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "bc4427fd-d174-4483-82c1-8bce7694bb2a",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "8c6eb8d8-2b2d-4368-ba01-13df3e9e0df8",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "00cbe019-887a-42a4-9935-9238024bd8aa",
+            "Value": {
+                "id": "b9b70335-b96e-43ca-be52-10329b17e305",
+                "resourcePath": "views\\00cbe019-887a-42a4-9935-9238024bd8aa.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0286b464-f3f8-4eda-8793-b79d761eea5f",
+            "Value": {
+                "id": "08575894-3fc7-4c85-85d3-b68a47ef190c",
+                "resourcePath": "views\\0286b464-f3f8-4eda-8793-b79d761eea5f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "02d0ecf6-c3c4-431f-b405-d4c0cc8228a6",
+            "Value": {
+                "id": "c82a807c-5591-4829-b685-8e5f7e663ab7",
+                "resourcePath": "sprites\\sprTileset\\sprTileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "03c99a91-03d3-49e9-9d7d-6e1bd5d81652",
+            "Value": {
+                "id": "79ea2371-6b7c-4e15-9de6-0f09fb46370e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\options\\main\\inherited\\options_main.inherited.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "042d349d-14eb-415c-9886-503f7a8c1a17",
+            "Value": {
+                "id": "1980fbab-cde4-407f-9921-76d0698fbd2e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sounds\\sound2\\sound2.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "06497632-1d37-4b53-847d-adad32ace62f",
+            "Value": {
+                "id": "be2f99cc-bb37-4d7d-9f29-e62d26e9e44c",
+                "resourcePath": "objects\\objPlayer\\objPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "06b5a89a-d0ec-41f9-827b-5d7c4cc9359f",
+            "Value": {
+                "id": "e0905345-b780-4330-b12b-88e7cba24c00",
+                "resourcePath": "views\\06b5a89a-d0ec-41f9-827b-5d7c4cc9359f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "09b27405-3956-433e-a83f-27a27439f566",
+            "Value": {
+                "id": "8b4a3701-edd9-4efb-86b9-719d69de5062",
+                "resourcePath": "views\\09b27405-3956-433e-a83f-27a27439f566.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0f9fd7f3-8acf-4af9-a547-6d21d4706196",
+            "Value": {
+                "id": "96438a33-3950-417c-854f-1dcd9177ee1c",
+                "resourcePath": "views\\0f9fd7f3-8acf-4af9-a547-6d21d4706196.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1018c000-6dc0-4031-b4df-fbee014494b0",
+            "Value": {
+                "id": "808962ee-1a5e-4500-bc9a-5f35a95f05b7",
+                "resourcePath": "views\\1018c000-6dc0-4031-b4df-fbee014494b0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "11414a34-3ccd-4c46-863a-79ff2d3a8142",
+            "Value": {
+                "id": "782f6af1-da05-4d79-8583-ff024c36b402",
+                "resourcePath": "views\\11414a34-3ccd-4c46-863a-79ff2d3a8142.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "12111d59-a8a8-4bab-be8e-cf7c4e498c51",
+            "Value": {
+                "id": "e4c4d9e5-7f27-4316-a4ae-2365510c342b",
+                "resourcePath": "views\\12111d59-a8a8-4bab-be8e-cf7c4e498c51.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "172337fb-f646-492c-98a0-7f85224090df",
+            "Value": {
+                "id": "5dcff095-c916-40ff-8f0a-157f687e7bb8",
+                "resourcePath": "views\\172337fb-f646-492c-98a0-7f85224090df.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "180a9460-e880-40ec-914f-1c092e9e32fb",
+            "Value": {
+                "id": "ba00821a-417b-4582-bfc2-8a3463731cbe",
+                "resourcePath": "views\\180a9460-e880-40ec-914f-1c092e9e32fb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1a16493c-5d54-468f-82b4-52bb3d8a6379",
+            "Value": {
+                "id": "bc04de56-1d30-47b2-b5c2-b5c2feaf1cf6",
+                "resourcePath": "views\\1a16493c-5d54-468f-82b4-52bb3d8a6379.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1bb546c5-be9d-4040-8d21-c68fdd8f432c",
+            "Value": {
+                "id": "fd36a191-5627-4233-aa4a-3301ea1a8eba",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objSpawner\\objSpawner.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1cd6d821-2c1d-46f9-b823-c1c187ec9f5d",
+            "Value": {
+                "id": "d58c6ccc-604f-428c-a240-6afdee1e2ef0",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprPlayer\\sprPlayer.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1d5c5d86-e23a-4265-a876-5d13fbf7f99e",
+            "Value": {
+                "id": "d3e0309c-5b89-4e16-a739-cab7b3c9ef0c",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\tilesets\\tilBackground\\output_tileset.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1f0c6ed2-c3e9-40d0-8d49-b3847548c738",
+            "Value": {
+                "id": "7e8aa663-b68d-4036-9b16-900fe463bdcd",
+                "resourcePath": "views\\1f0c6ed2-c3e9-40d0-8d49-b3847548c738.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1f7e24ff-9846-40ba-ae9f-714104e60b5d",
+            "Value": {
+                "id": "21ff124e-a7ee-4e0f-97a9-86b0ffb6e948",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objBullet\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1fe6a15b-77b0-4a70-950e-8ef821e72ea8",
+            "Value": {
+                "id": "ade85d2a-b559-4878-aaa3-e76e78ad9edf",
+                "resourcePath": "views\\1fe6a15b-77b0-4a70-950e-8ef821e72ea8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "207c48ad-8c18-4460-aad4-16c964129cc8",
+            "Value": {
+                "id": "2002c055-6b1b-4180-a137-7a51cae306ce",
+                "resourcePath": "views\\207c48ad-8c18-4460-aad4-16c964129cc8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "20f96b4d-b2ff-4655-b407-924476eb9edf",
+            "Value": {
+                "id": "3d06645a-c993-438d-bcfc-5e18d55dc2ca",
+                "resourcePath": "views\\20f96b4d-b2ff-4655-b407-924476eb9edf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2170e41c-8bbe-4b2a-84ff-7d2f1e3b2eb5",
+            "Value": {
+                "id": "a5f93f08-186f-4128-8d91-1b65d9aa2b10",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemySpawn\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "24ee55f2-b7fb-4be4-b12d-d66213e0e8fc",
+            "Value": {
+                "id": "1657084c-4123-4c67-a1df-9cb0303a472d",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sounds\\sound2\\sound2.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "25da9729-ceb6-43a7-9a6a-eedbfa280ba8",
+            "Value": {
+                "id": "9ba7feab-a466-491b-9a74-0cfe583886b7",
+                "resourcePath": "sprites\\sprBullet\\sprBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27e16892-95f6-4cf3-b564-b83a0dc6da1e",
+            "Value": {
+                "id": "935b0685-04da-4279-93c6-00415bb6f910",
+                "resourcePath": "views\\27e16892-95f6-4cf3-b564-b83a0dc6da1e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "28ad9222-3dfa-493f-bf9a-64dd83b70d8a",
+            "Value": {
+                "id": "4c7e2518-5fce-4d4f-9736-718b95395bef",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprBullet\\6dae8596-5718-4645-92e4-67f65eeccfdf.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2a3132b6-b887-4266-ab39-083495ebe4ab",
+            "Value": {
+                "id": "3eeac4eb-d6a3-4533-8381-0e42b732e393",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\58f5a71b-fc56-4325-b008-df0984eb44f3.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2bd79c3a-844e-46a9-a7dc-2c08c29cc158",
+            "Value": {
+                "id": "4ddc7dc8-1a56-46a5-96fc-b6448ec55552",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\1018c000-6dc0-4031-b4df-fbee014494b0.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "2d0693a5-d9e6-41cf-a487-1057659d28ec",
+            "Value": {
+                "id": "6e73796e-e20b-4d98-8eac-916119d833e0",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprBullet\\layers\\6dae8596-5718-4645-92e4-67f65eeccfdf\\9d227ffe-6678-472d-8f46-52f6ed9d5293.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "33aca87a-ab06-47d3-96c8-950fa64d1c7e",
+            "Value": {
+                "id": "d889bd2e-9a6c-4aa2-b43c-81320b1115ae",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objSpawner\\Alarm_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3462e6b5-36f8-42e8-be49-12f2c46c9269",
+            "Value": {
+                "id": "7ea19e2b-4e14-438d-bb05-f89984b7b02b",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_40.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "35a14afb-cc8f-43ff-9f2a-6e7b956be34b",
+            "Value": {
+                "id": "2ffc1f18-81a7-4c6a-b5c2-595f1cacbbbb",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\8b348536-b80a-4328-bf5a-49f0ff981ed0.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "37a0a56b-47fe-437c-83cf-c1c6746e5b01",
+            "Value": {
+                "id": "f98432b8-198b-4206-a75d-dce9a6d95c2b",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objSpawner\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "3aa7f5d6-1322-43c2-8de1-bb04b1c313f7",
+            "Value": {
+                "id": "8622f702-5ca8-4514-8f6e-2a15ae16fea9",
+                "resourcePath": "views\\3aa7f5d6-1322-43c2-8de1-bb04b1c313f7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c1b3dd2-630a-4c2b-9c9d-13b80d7dc0e1",
+            "Value": {
+                "id": "c37e5214-c6a0-4d67-8be3-3ba67c0e9f5a",
+                "resourcePath": "views\\3c1b3dd2-630a-4c2b-9c9d-13b80d7dc0e1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f9fc638-e66d-45bc-bdf0-86b8b49ff6d4",
+            "Value": {
+                "id": "796c6b95-32b2-4a73-aab4-663186bf3a10",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\options\\linux\\options_linux.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "41310515-b512-47a2-869a-d7105adf3663",
+            "Value": {
+                "id": "d6fbeb40-24c6-40ea-8214-9e4e285fb63f",
+                "resourcePath": "views\\41310515-b512-47a2-869a-d7105adf3663.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "46d1e815-534b-42dd-910c-b068379e86ce",
+            "Value": {
+                "id": "753bc064-bb54-4865-b789-f01afb5560b2",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemy\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "492d308d-7a7d-4b52-8d5e-53ce09e0632d",
+            "Value": {
+                "id": "ae1a6e40-9479-4c83-bcc4-e9f0c68b5534",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\options\\mac\\options_mac.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4b44b824-7d4e-4fef-aa11-a7e0b33f38cc",
+            "Value": {
+                "id": "030436de-6830-456b-b0e8-d241fab53b3e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sounds\\sndDeath\\sndDeath.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4e503912-9767-4da8-b6da-66a69a44419e",
+            "Value": {
+                "id": "c7f7d99c-44a1-46d9-8910-d2de2c18f769",
+                "resourcePath": "views\\4e503912-9767-4da8-b6da-66a69a44419e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "504cdb20-dfc2-4bcb-9e6f-7db6e3c4ce72",
+            "Value": {
+                "id": "4284019f-2372-44d1-8db7-bd9a6265069a",
+                "resourcePath": "views\\504cdb20-dfc2-4bcb-9e6f-7db6e3c4ce72.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "50981f1d-10c5-47a7-8d4b-c528eb970f6c",
+            "Value": {
+                "id": "882060ec-ac0b-4c7a-af3f-598ac3b6975d",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprEnemy\\layers\\e1a0ae94-65ac-439b-bdd7-47a4390c6699\\dba1c8c8-83e2-4971-893d-34471d438d31.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "50f9a675-df65-4e29-bdc5-6487d4513551",
+            "Value": {
+                "id": "a5816952-20a0-44db-9217-42b4fa4eaaff",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objScore\\Draw_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "52bb20b6-e3fc-4e17-9c3f-2086d20c44bb",
+            "Value": {
+                "id": "b8ea9e13-1229-4f04-9204-e2691a865d0e",
+                "resourcePath": "views\\52bb20b6-e3fc-4e17-9c3f-2086d20c44bb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5387d4f8-328e-4e61-b9bd-1dfb8a6f46bf",
+            "Value": {
+                "id": "13aa52ce-f1b1-4918-a28f-4b74f47c43b0",
+                "resourcePath": "views\\5387d4f8-328e-4e61-b9bd-1dfb8a6f46bf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "566be1fc-2042-45d4-ae59-a6fc9c4cb848",
+            "Value": {
+                "id": "007859ee-9e92-4e0c-b1c1-b9708ce23fca",
+                "resourcePath": "views\\566be1fc-2042-45d4-ae59-a6fc9c4cb848.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "57dbf14a-2e58-43ed-bf5c-87d00f928e39",
+            "Value": {
+                "id": "17d769fc-b7a5-49fe-a3f4-5c1833301b10",
+                "resourcePath": "views\\57dbf14a-2e58-43ed-bf5c-87d00f928e39.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "58f5a71b-fc56-4325-b008-df0984eb44f3",
+            "Value": {
+                "id": "f3581f8f-9b59-428e-8bdb-28f9e4a59526",
+                "resourcePath": "views\\58f5a71b-fc56-4325-b008-df0984eb44f3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5979b81e-690a-4710-b626-3a54565f0ecd",
+            "Value": {
+                "id": "2242f239-a62c-4a46-b2f8-c613add49f6e",
+                "resourcePath": "views\\5979b81e-690a-4710-b626-3a54565f0ecd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59a1a1f6-c100-4be2-8acc-341c539de3f6",
+            "Value": {
+                "id": "a12d28c6-7138-4da7-a5ab-5eef76a5f215",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\5979b81e-690a-4710-b626-3a54565f0ecd.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5a1e03c1-24f8-4a76-a8b4-a789c7edae65",
+            "Value": {
+                "id": "46d038a1-9705-42fa-af8a-4e1c7a8656c5",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\67d298d6-c5d5-4a06-ae5f-b8c4a4f5723f.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5db65ba6-bfa0-472b-9bb8-7821b4e5ab8f",
+            "Value": {
+                "id": "1f4de102-3f30-4f01-b663-03b8430dae14",
+                "resourcePath": "views\\5db65ba6-bfa0-472b-9bb8-7821b4e5ab8f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e0923e6-7e25-4efb-919b-0c7765daa969",
+            "Value": {
+                "id": "190a733f-31bd-466d-921a-da34e353ad66",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sounds\\sndDeath\\sndDeath.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5e925d5b-911b-417a-961a-b99df97a589d",
+            "Value": {
+                "id": "123e93c7-b853-4ed8-84c4-5020b8214754",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objBullet\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "5f3a919b-4e2d-462a-af9a-870735382237",
+            "Value": {
+                "id": "81d85c06-edd6-4e54-8629-6803208bfafb",
+                "resourcePath": "views\\5f3a919b-4e2d-462a-af9a-870735382237.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5fc11098-8baf-4678-930e-7afbae0bff92",
+            "Value": {
+                "id": "b4db8b73-505e-4462-8145-1269d2ed8565",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemySpawn\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "610fa004-fa82-44e3-a071-d2cd830919f3",
+            "Value": {
+                "id": "6b0389da-4330-4e5c-a891-3afef8b669f8",
+                "resourcePath": "views\\610fa004-fa82-44e3-a071-d2cd830919f3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62835d94-d3fc-4896-ab76-021b51a8f706",
+            "Value": {
+                "id": "d997577b-acb7-4813-b3e7-b127a611b4a7",
+                "resourcePath": "views\\62835d94-d3fc-4896-ab76-021b51a8f706.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66e903dc-7457-468d-a588-f8018fafdb59",
+            "Value": {
+                "id": "684a5b0b-f8f4-4f32-9587-d3138eb28506",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\fdfc9e29-2787-47b1-8c52-801c1dfdb30a.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "67d298d6-c5d5-4a06-ae5f-b8c4a4f5723f",
+            "Value": {
+                "id": "63a6473b-0850-4741-af2f-68266e792948",
+                "resourcePath": "views\\67d298d6-c5d5-4a06-ae5f-b8c4a4f5723f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "68a2a3b0-d38b-40e1-8224-c8de72fb0f55",
+            "Value": {
+                "id": "b5dc840c-4a64-4cf8-b21e-f63d9c05fc52",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sounds\\sndShoot\\sndShoot.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "68b214c1-8327-4b88-ae37-cab918a23e40",
+            "Value": {
+                "id": "32fdcd60-8432-4e72-804c-a9f32c2cb733",
+                "resourcePath": "views\\68b214c1-8327-4b88-ae37-cab918a23e40.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69510b65-d00d-4dcc-bd7b-1730bbf2221b",
+            "Value": {
+                "id": "6ee0f1f7-297a-4622-a5b1-b0de60f99642",
+                "resourcePath": "views\\69510b65-d00d-4dcc-bd7b-1730bbf2221b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69a7b7bf-f0eb-48af-81c1-014247ae9103",
+            "Value": {
+                "id": "7f5e4257-dfe7-4103-b2e4-064632279f62",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objScore\\objScore.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6b066d55-9c60-400d-bf27-f770792e271d",
+            "Value": {
+                "id": "5aa5e366-d876-498a-adf8-303189787606",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\57dbf14a-2e58-43ed-bf5c-87d00f928e39.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6c79d039-a242-4d2f-9a40-e0e9567d93d9",
+            "Value": {
+                "id": "46d3f49d-a253-46c6-91e0-eea39534aa46",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\610fa004-fa82-44e3-a071-d2cd830919f3.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "6f6dc374-37ac-4902-aef9-b6e5132f3e9c",
+            "Value": {
+                "id": "eb2cb032-6931-4097-8ac2-94793f6ee097",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\9544696c-1f10-448b-ad7d-6ec47242689d.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "709efb4e-c67a-41bd-988d-066ed41db694",
+            "Value": {
+                "id": "3f6f8a92-5a48-492e-9af6-7379acadd9b7",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\FIRSTO GAME.yyp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "71d93384-a11a-4ce6-983d-af47c4c38072",
+            "Value": {
+                "id": "b7bca766-279c-47c8-a054-0f2aec33981b",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_40.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "72207af5-ba22-421e-9d6f-363d253a1f6a",
+            "Value": {
+                "id": "09d727d1-8f0c-4c3d-bb19-937e30c2cb73",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\fonts\\fntScore\\fntScore.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "72825178-eaf7-47c2-8631-eb9503ded940",
+            "Value": {
+                "id": "a8da770f-abc3-4275-956a-396a2a423186",
+                "resourcePath": "objects\\objScore\\objScore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "75bdeab3-9613-47d7-bde7-ef9c867aecce",
+            "Value": {
+                "id": "2d50df51-815f-464a-b07f-1fa9d774bcaa",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemy\\objEnemy.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "76b27f57-b3cf-4d49-b1cf-59eb63af860c",
+            "Value": {
+                "id": "6ee0770c-926d-4474-ba99-705e9fdc3e1d",
+                "resourcePath": "sounds\\sndShoot\\sndShoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "76efc2f7-f6c0-4791-87bd-bf835f8097bf",
+            "Value": {
+                "id": "25a368b3-e519-47b2-88ba-5286317fd50c",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_38.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "77471746-8cc9-4ec9-9e79-26f2bbddc228",
+            "Value": {
+                "id": "ee3bddb1-4a6d-4e67-a30d-34bbc7a311e9",
+                "resourcePath": "views\\77471746-8cc9-4ec9-9e79-26f2bbddc228.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b494c91-7fb6-43b5-8bd1-4962dadff580",
+            "Value": {
+                "id": "e9de1426-d5ae-4d2a-b13c-a72b9f7a2ff5",
+                "resourcePath": "views\\7b494c91-7fb6-43b5-8bd1-4962dadff580.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7e08fafb-2f4d-4b37-8e85-7bc6feb0acf6",
+            "Value": {
+                "id": "52f5d739-31ac-40f8-9a78-9e54736594ef",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7e4b33f2-6d63-4a37-9e71-0477526945fb",
+            "Value": {
+                "id": "3c291d2d-8656-41d1-a843-b483bfa65d06",
+                "resourcePath": "objects\\objSpawner\\objSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "81842698-ef11-4dce-a16e-547ad42fae52",
+            "Value": {
+                "id": "2303af53-6fdf-498c-9c20-a1ed6dc07e13",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\1f0c6ed2-c3e9-40d0-8d49-b3847548c738.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "83112e1f-731f-48cd-96d0-4a6e0fd32dd5",
+            "Value": {
+                "id": "28f9f4ae-6170-454c-a48f-d95590e2cac7",
+                "resourcePath": "fonts\\fntScore\\fntScore.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "83de84d6-6e87-4b14-8143-aa02ab01d261",
+            "Value": {
+                "id": "a3147c06-80b4-462a-aa0b-ab31d7cba249",
+                "resourcePath": "sprites\\sprEnemy\\sprEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85193395-6c18-42e6-a60f-2b13cfad68e2",
+            "Value": {
+                "id": "40c0ce5a-9cac-48fc-86df-1a0fea55b543",
+                "resourcePath": "views\\85193395-6c18-42e6-a60f-2b13cfad68e2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "86ff96c1-5920-4823-a453-d884eb848560",
+            "Value": {
+                "id": "a0fd4596-0fa0-45d0-91ef-f3a5b18edcc1",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprBullet\\sprBullet.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "87073387-28e8-438c-ba0d-869030fe0501",
+            "Value": {
+                "id": "546fbd1e-4226-484f-839b-6ca783a69281",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objBullet\\Collision_2b1a6e14-2119-44f5-ba12-b202b08d879c.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "883779b6-35fa-4b4a-915e-87a47665c6cb",
+            "Value": {
+                "id": "7c29177e-5a0e-403a-8bec-3d4204c8314a",
+                "resourcePath": "views\\883779b6-35fa-4b4a-915e-87a47665c6cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8afea226-5832-4de9-b221-102a6ed3e74a",
+            "Value": {
+                "id": "3a5213c5-cb40-4ecf-be78-152b042311f7",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprPlayer\\layers\\3460453e-6c2d-4dae-85c8-3ea3b5c4663e\\3ca38786-4a59-411e-bcdd-a6b6d3269175.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "8b348536-b80a-4328-bf5a-49f0ff981ed0",
+            "Value": {
+                "id": "476cc2d6-e434-434f-a58a-56b6525a2e0b",
+                "resourcePath": "views\\8b348536-b80a-4328-bf5a-49f0ff981ed0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "91eea7af-7e49-4bf8-bf18-793e077e64fb",
+            "Value": {
+                "id": "310e9a4d-ef0a-4c9d-afc4-ad60e8dd26ab",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprTileset\\layers\\be2908a3-7159-4d1f-a7dc-21583587b913\\8ae255c6-bfe3-4d4e-8b7d-992755213b88.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "92af3f23-5c0d-47bc-9401-a741fd440c46",
+            "Value": {
+                "id": "b1a780d7-63ad-4459-bfc9-45e86d9181c8",
+                "resourcePath": "views\\92af3f23-5c0d-47bc-9401-a741fd440c46.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "932b8368-1431-47ab-9400-ee8c7107bd2e",
+            "Value": {
+                "id": "0527e29c-9c01-4c72-b6f8-0103793e074a",
+                "resourcePath": "views\\932b8368-1431-47ab-9400-ee8c7107bd2e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93cf7e27-fceb-4b27-bd42-073ced795265",
+            "Value": {
+                "id": "cfa4a063-8260-4982-8f5f-a0bae90235c1",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "94b50715-264b-4840-b165-e492e8a3b5c0",
+            "Value": {
+                "id": "e8e825a0-7aaf-4720-a437-b39157329b9e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprEnemy\\e1a0ae94-65ac-439b-bdd7-47a4390c6699.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9544696c-1f10-448b-ad7d-6ec47242689d",
+            "Value": {
+                "id": "12360c10-983a-4504-871b-a9a4e6dba6d2",
+                "resourcePath": "views\\9544696c-1f10-448b-ad7d-6ec47242689d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "95f3e91b-6aa0-42ce-91e0-e679ba0dc363",
+            "Value": {
+                "id": "fb899dcc-670f-4c7f-9a68-0a594dcd58ad",
+                "resourcePath": "sounds\\sound2\\sound2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "966f57df-f9c1-4f0b-aff1-495ce45b7722",
+            "Value": {
+                "id": "adad5f03-a1c1-425f-bcbd-009f3130ee64",
+                "resourcePath": "views\\966f57df-f9c1-4f0b-aff1-495ce45b7722.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "98947ef6-f5ca-4da7-b805-83af1188cb82",
+            "Value": {
+                "id": "96f8d4b7-2f14-4596-813c-9a3020c3de31",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemy\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "989f7767-7391-4e4b-91df-fbc4071e8b28",
+            "Value": {
+                "id": "bb5d3ca0-f6c2-4918-9267-400f97ff5f29",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_37.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9ba4b686-4a71-47f1-8843-47a14cc140b8",
+            "Value": {
+                "id": "18c966d3-229a-4d3a-aec2-3cd9a488a858",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\c337d202-e194-4237-852e-74b2ea00ba31.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9dd56b78-bc84-465e-8b3f-d2c8a07db67d",
+            "Value": {
+                "id": "45b3661d-6aa5-4238-a437-28316b7de790",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sounds\\sndShoot\\sndShoot.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9e0e7073-b50c-47a7-b916-f55dcc0da959",
+            "Value": {
+                "id": "39c50dae-b6cc-4ac9-9c1b-31d8863a7c6c",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemySpawn\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9e7e996d-49c9-4f56-bdd8-48a604797069",
+            "Value": {
+                "id": "20ca9a2b-3259-46b0-93ae-d8571df26e09",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprEnemy\\sprEnemy.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9ef6bf61-81f2-441e-9f20-b737d6502ddd",
+            "Value": {
+                "id": "45a682ba-4325-49ca-82e2-6b8f9b88c2a6",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprPlayer\\3460453e-6c2d-4dae-85c8-3ea3b5c4663e.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "9f6d1095-cbc4-4c1d-9224-15681bf4286c",
+            "Value": {
+                "id": "befcfea2-d31a-4e5a-a0cf-9fbc94cd56a0",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemy\\Create_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a4e93347-74b2-4d3c-9693-b7f707d9a4f9",
+            "Value": {
+                "id": "8bc7ffe4-34c7-4516-95b3-62b6b9d3ffbc",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprite4\\layers\\33fa5b54-a986-4c89-8371-ac8b5b357fec\\e902454e-e0ae-4cc1-a395-825491260ce0.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a53a9b8d-56c5-4f24-bbea-2b1421eed162",
+            "Value": {
+                "id": "1d147176-4ffa-4d36-affd-e58e7563388e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a62e7b52-ec7c-42d0-b233-ade28d6a9e97",
+            "Value": {
+                "id": "c63b1c66-3822-496f-9ff3-0305f2b4720f",
+                "resourcePath": "sprites\\sprPlayer\\sprPlayer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a7a5f9ca-e035-4186-a86d-fb66646fee6d",
+            "Value": {
+                "id": "acae1e9c-264a-4670-a3df-8b34362a0309",
+                "resourcePath": "views\\a7a5f9ca-e035-4186-a86d-fb66646fee6d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a845fd13-8bab-4a35-9292-bc7b2adf307b",
+            "Value": {
+                "id": "eca98ef0-a423-4e26-9c1f-1ccfdd6b2ed4",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\tilesets\\tilBackground\\tilBackground.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a8d8a5d8-2c64-4854-b301-d9b61ea182d3",
+            "Value": {
+                "id": "865451b5-f2b9-4331-aa72-b6a9e65ae837",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemy\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "9eebd67a-7d9c-467a-ad61-a946318dd492",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a99dc985-5b67-41f6-a5c5-ad92dbf95f75",
+            "Value": {
+                "id": "1b775bf4-8bc7-4b0e-adc6-01e056a96ad7",
+                "resourcePath": "views\\a99dc985-5b67-41f6-a5c5-ad92dbf95f75.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab8204a3-c7a8-47a9-8e41-42cd0a61280e",
+            "Value": {
+                "id": "4368cb11-4f9e-4d6a-a5e7-bb04f4812324",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objBullet\\Collision_2b1a6e14-2119-44f5-ba12-b202b08d879c.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ad4065bd-a459-4925-83e0-587a177051ed",
+            "Value": {
+                "id": "a5941b24-71ad-4231-9676-364e04fa820e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemy\\Collision_1f1b49b1-f7b4-4958-b668-60a311017bd2.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "af02c6a3-ff42-409d-b102-6d1668c4fabd",
+            "Value": {
+                "id": "5de9f38f-b2a8-4917-a6a3-52d3aaf85f49",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\ccb83135-3a08-4150-81a1-aa33485753bf.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bb34d5b0-f0ec-4f53-9feb-34552da4a573",
+            "Value": {
+                "id": "931fdba1-6d0a-4b93-a65c-a4f33bedd87c",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_38.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bc28485c-065a-4475-ad7e-6d26b4258621",
+            "Value": {
+                "id": "b1e22589-e2ec-44af-8d9b-ea82e8102e37",
+                "resourcePath": "views\\bc28485c-065a-4475-ad7e-6d26b4258621.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be1ba3b3-657c-4030-bb3c-2b8c0dfd0a89",
+            "Value": {
+                "id": "22673c79-de62-4360-8dd5-5149537d5b52",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\27e16892-95f6-4cf3-b564-b83a0dc6da1e.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "bf8115af-b62f-46f5-ab7c-379c58d7a732",
+            "Value": {
+                "id": "de5f901d-6eff-4f80-b672-1b36494f3e17",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bfd41d30-a8c5-44a3-8b70-65713a8d11cf",
+            "Value": {
+                "id": "e2ab632f-4450-49c9-ae5f-224934b3a75d",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objSpawner\\Alarm_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c0c0f28f-4ecd-494e-aedd-2502e868c8e2",
+            "Value": {
+                "id": "743513c1-347b-4fb8-a15a-94fc2b505100",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objBullet\\objBullet.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c2ba26c8-d9a7-4316-a698-d6f2c23956d4",
+            "Value": {
+                "id": "a16bdcf9-9fb3-4d98-877d-83170454e999",
+                "resourcePath": "tilesets\\tilBackground\\tilBackground.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "c337d202-e194-4237-852e-74b2ea00ba31",
+            "Value": {
+                "id": "5945cccd-082a-4d9a-8d9f-81a598272ea6",
+                "resourcePath": "views\\c337d202-e194-4237-852e-74b2ea00ba31.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c51197d2-eb43-42aa-9dc6-3e17372ed863",
+            "Value": {
+                "id": "1840eb40-2839-4940-8ecb-7a3eb3cc97c5",
+                "resourcePath": "objects\\objEnemy\\objEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c611687e-1caf-401f-9e95-de51dd1f7d96",
+            "Value": {
+                "id": "78ecd608-9d9b-4c84-9366-ea9df89451e3",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\rooms\\room0\\room0.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c6332af9-2769-48ce-8948-ff4fcde320cb",
+            "Value": {
+                "id": "815cfa2b-7aa2-4f3a-8321-b41f3275f6ef",
+                "resourcePath": "views\\c6332af9-2769-48ce-8948-ff4fcde320cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c74fd097-43d0-4e79-b3a6-6ad91c16d451",
+            "Value": {
+                "id": "2575ac5f-be83-4ab0-b9c3-e2e68ccd1e63",
+                "resourcePath": "views\\c74fd097-43d0-4e79-b3a6-6ad91c16d451.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb836e6a-5ade-45d2-97bc-ed4febacec31",
+            "Value": {
+                "id": "16dcd74b-974a-4473-97e8-7ce91eef2377",
+                "resourcePath": "sounds\\sndDeath\\sndDeath.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "7a777228-5cf9-4952-92c7-71fd242ea5b7",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccb83135-3a08-4150-81a1-aa33485753bf",
+            "Value": {
+                "id": "14cd2dd0-3e0e-4d4f-a772-228deb5ba55c",
+                "resourcePath": "views\\ccb83135-3a08-4150-81a1-aa33485753bf.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ce0cc0b5-c42f-4218-8bd7-1167ffad3fae",
+            "Value": {
+                "id": "3e16b98a-9fe8-4f84-a136-5332195e8301",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprTileset\\sprTileset.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ce6ef43f-4eac-4b1a-8722-561b3e3c3411",
+            "Value": {
+                "id": "b5b5e896-1cb7-4fbe-b445-5a9ef62b77cd",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\options\\windows\\options_windows.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cea06151-bff6-4e9f-b728-adc63f215f18",
+            "Value": {
+                "id": "b7cdb189-ce80-44a2-93fa-e3659190dfb4",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprite4\\33fa5b54-a986-4c89-8371-ac8b5b357fec.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cefe451f-1943-4f67-b130-0b3a94e36e79",
+            "Value": {
+                "id": "1a8e49b2-dcc4-4f65-b7e9-b21b4827b488",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\f13eba6b-3fe9-43e2-85af-fc07a0578065.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d0429c1e-ded9-4c58-b1fe-57eaa3f3524c",
+            "Value": {
+                "id": "fe5ee061-34b3-459f-bfd7-232f6390b452",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objScore\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d4b721b7-72eb-4cae-b402-c61f523b2cda",
+            "Value": {
+                "id": "dc1b7f06-abea-4917-b49f-b4312ae31806",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objSpawner\\Create_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d6943876-306e-41ce-bc3d-fe975acd94ca",
+            "Value": {
+                "id": "96d80a0f-cd76-497a-aeab-a3d7d220a2ab",
+                "resourcePath": "objects\\objEnemySpawn\\objEnemySpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d8777e97-a28d-4cae-878e-34968bf111ca",
+            "Value": {
+                "id": "c204082a-3a30-4582-956c-e98d84571303",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Step_0.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "d9a67d04-5d99-4726-90d3-8c3af9f4354a",
+            "Value": {
+                "id": "b25dac55-d50a-44e1-ac57-7fbf1ae67072",
+                "resourcePath": "views\\d9a67d04-5d99-4726-90d3-8c3af9f4354a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dae4b976-0ae0-4583-8078-2caa898b77cc",
+            "Value": {
+                "id": "9fda3c68-a43d-42d9-bcb8-30bda4a95446",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprite4\\sprite4.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "db7cb712-7db3-4df7-a3d9-a48849fa25e8",
+            "Value": {
+                "id": "7b1317d9-56df-4eeb-9ee4-08390585b02e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\a99dc985-5b67-41f6-a5c5-ad92dbf95f75.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dc6f227a-0aa4-4bb5-942f-0240262c9231",
+            "Value": {
+                "id": "c7bd7f32-25f1-4628-b01d-fce16badb0d2",
+                "resourcePath": "views\\dc6f227a-0aa4-4bb5-942f-0240262c9231.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ddbfdb2f-cffd-4d62-bcb7-176525559810",
+            "Value": {
+                "id": "c3451c43-53e9-4c97-b9cb-0fd340fdd4cd",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemySpawn\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ddfecff2-2fcd-4848-b29c-2e8fed3a055e",
+            "Value": {
+                "id": "050e740a-a3d7-4db6-88bf-aadfb1d48462",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\sprites\\sprTileset\\be2908a3-7159-4d1f-a7dc-21583587b913.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "deb35fbb-a52f-41d8-83bd-da20243d6822",
+            "Value": {
+                "id": "3cfa04bf-02de-4f45-afe6-db890834d44b",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\fonts\\fntScore\\fntScore.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dee4e2a0-0547-436b-85ff-7b8e96684ce5",
+            "Value": {
+                "id": "468f5a7c-e8f0-4360-9dc8-f0c00de118d0",
+                "resourcePath": "objects\\objBullet\\objBullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e20a5880-5cf2-49e8-9dee-1180559a589a",
+            "Value": {
+                "id": "f6873468-a0e1-4612-8a8a-b05196181f1e",
+                "resourcePath": "views\\e20a5880-5cf2-49e8-9dee-1180559a589a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e95f21a4-a2f3-4703-bfb2-9be847709370",
+            "Value": {
+                "id": "b57e3532-7e6f-4753-a2bf-dfd10495513a",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Step_0.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ed582bb2-bdaa-40df-b6bb-916f4b4668da",
+            "Value": {
+                "id": "5d56e7bf-9420-498a-aff8-bd3ed8a64a4b",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objEnemySpawn\\objEnemySpawn.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "edc7b523-1364-4897-92d4-089a584a0ab3",
+            "Value": {
+                "id": "e1fdec21-2f70-4833-bac1-609b6144de4a",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\fonts\\fntOriginal\\fntOriginal.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ef3f1f6c-dae7-46d6-9a6e-e44c3eb896c5",
+            "Value": {
+                "id": "3221026a-539b-4ec3-9856-f422154852ef",
+                "resourcePath": "views\\ef3f1f6c-dae7-46d6-9a6e-e44c3eb896c5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f13eba6b-3fe9-43e2-85af-fc07a0578065",
+            "Value": {
+                "id": "1f4b0e3d-8aff-4673-9b11-e5542db23ec5",
+                "resourcePath": "views\\f13eba6b-3fe9-43e2-85af-fc07a0578065.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3339b0f-b59c-486b-b521-0ba700dbfc80",
+            "Value": {
+                "id": "29b25b35-e327-47f0-ac54-c98c890cd4c4",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_39.gml.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "b854941c-0bec-4cf1-ba65-567320017005",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f41f0f0c-efc9-4af7-8669-4312ab6ca3db",
+            "Value": {
+                "id": "f0019c84-0e30-4daa-a7fb-ce964c39263e",
+                "resourcePath": "views\\f41f0f0c-efc9-4af7-8669-4312ab6ca3db.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f90cf524-05de-46a8-a89e-e81afbec381a",
+            "Value": {
+                "id": "44ecb1b2-6261-4b67-8e61-c21425e467ff",
+                "resourcePath": "fonts\\fntOriginal\\fntOriginal.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "fb515d42-1a5d-4a4d-89d0-943ae734f003",
+            "Value": {
+                "id": "8f50d92d-c61d-4b29-b08f-7737d00f590f",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\fonts\\fntOriginal\\fntOriginal.png.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fc8d4e0a-d587-422e-99a5-215b0f7e3ffc",
+            "Value": {
+                "id": "34a1a1ea-8688-408b-bf9a-9fcded38e0ae",
+                "resourcePath": "views\\fc8d4e0a-d587-422e-99a5-215b0f7e3ffc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fdfc9e29-2787-47b1-8c52-801c1dfdb30a",
+            "Value": {
+                "id": "ac91cd40-0e96-4a27-b00b-e6c6fc955871",
+                "resourcePath": "views\\fdfc9e29-2787-47b1-8c52-801c1dfdb30a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe3d919f-9c0c-4c3e-98f7-94cb2cf63e8e",
+            "Value": {
+                "id": "19992fd9-c04e-4f06-bb93-da80db2a3849",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_39.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fe87d3f0-119a-470e-8d88-47953dca9e63",
+            "Value": {
+                "id": "a378b33c-f004-4385-9e71-8cfc52ad615e",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\objPlayer.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "fed61d3b-c9b9-4768-83d8-fea45c1f7390",
+            "Value": {
+                "id": "9b811cc0-97e6-4b33-9990-5188d6728c51",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\objects\\objPlayer\\Keyboard_37.gml.dnd.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "ffde22eb-b625-40c3-9f47-7b82f19274a0",
+            "Value": {
+                "id": "720beed4-4778-498a-bbb0-d6306120bcc2",
+                "resourcePath": "datafiles_yy\\FIRSTO GAME\\views\\3c1b3dd2-630a-4c2b-9c9d-13b80d7dc0e1.yy.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        }
+    ],
+    "script_order": [
+        
+    ],
+    "tutorial": ""
+}
